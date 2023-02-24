@@ -18,5 +18,6 @@ I use this plugin in KiCad to make it super easy to order boards with all the co
 
 Thank you so much to everyone who has followed along, commented, gave me feedback, and more. It's all very much appreciated and I'm excited to be able to give back. And another huge shoutout to Bigbass1997 for allowing me to use their Edge Connector as it was a perfect fit and saved me countless revisions and lots of headache.
 
+![KiCad view of the electrical schematic](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/schematic.png?raw=true)
 ![KiCad render of the front of the Expansion Pak](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/front.png?raw=true)
 ![KiCad render of the back of the Expansion Pak](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/back.png?raw=true)
