@@ -14,7 +14,7 @@ I use this plugin in KiCad to make it super easy to order boards with all the co
 
  - The schematic is probably not in an "official" format. But it's laid out in such a way that you can easily understand which pins on the Edge Connector are connected to which pins on the RAM chip. This was done on purpose as I feel it is a bit easier to understand for most people.
 
- - The pictured board and the render look different because I needed to change some things once I got the board. Namely, the corners were in the way of the original Expansion Pak mounting columns (if you look at an OEM one, they have cutouts). I also needed to modify the screw holes because the were too small.
+ - The pictured board and the render look different because I needed to change some things once I got the board. Namely, the corners were in the way of the original Expansion Pak mounting columns (if you look at an OEM one, they have cutouts). I also needed to modify the screw holes because they were too small.
 
 Thank you so much to everyone who has followed along, commented, gave me feedback, and more. It's all very much appreciated and I'm excited to be able to give back. And another huge shoutout to Bigbass for allowing me to use their Edge Connector as it was a perfect fit and saved me countless revisions and lots of headache.
 
