@@ -8,7 +8,7 @@ I use this plugin in KiCad to make it super easy to order boards with all the co
 
 ## Some things to note:
 
- - Unless you have a 4MB RAM chip, this board will not do you any good. Most of the old stock you will find are 2MB chips. Don't fret, I'm working on another open source board that will utilize two of these chips so that you can make your own Expansion Pak. This one is just for historical reference
+ - ***Unless you have a 4MB RAM chip, this board will not do you any good***. Most of the old stock you will find are 2MB chips. Don't fret, I'm working on another open source board that will utilize two of these chips so that you can make your own Expansion Pak. This one is just for historical reference
 
  - The "ExpansionPak.pretty" folder is a library containing all the footprints needed for the project. Including the Edge Connector footprint created by Bigbass (check out more of his stuff here: [https://hachyderm.io/@bigbass](https://hachyderm.io/@bigbass) and here: [https://github.com/bigbass1997](https://github.com/bigbass1997/)). This saved me countless hours and pain, so a huge shoutout to him for allowing me to use it and release it
 
