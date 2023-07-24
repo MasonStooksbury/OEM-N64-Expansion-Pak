@@ -1,6 +1,6 @@
 # OEM-N64-Expansion-Pak
 
-![A picture of the custom OEM Expansion Pak running](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/Itdo.png?raw=true)
+![A picture of the custom OEM Expansion Pak running](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/pictures/Itdo.png?raw=true)
 
 At long last! Here are the all the files you would need to create your own OEM Expansion Pak. All you would need to do is clone this repo, open the .kicad_pro file in KiCad, and you can poke around the files.
 
@@ -26,17 +26,17 @@ Thank you so much to everyone who has followed along, commented, gave me feedbac
  - Next, install the PCBWay plugin by following the instructions [here](https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html)
  - Clone this repository or download a ZIP of the files using the green button near the top right of the page
  - Open KiCad, then open this project by navigating to where you downloaded this repo and selecting the `.kicad_pro` file
-   - ![Open project](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/instructions-01.png?raw=true)
+   - ![Open project](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/pictures/instructions-01.png?raw=true)
  - Once open, click on the `.kicad_pcb` file to open up the PCB so we can begin to order it
-   - ![Open project](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/instructions-02.png?raw=true)
+   - ![Open project](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/pictures/instructions-02.png?raw=true)
  - From there, click the PCBWay button at the top right
-   - ![Open project](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/instructions-03.png?raw=true)
+   - ![Open project](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/pictures/instructions-03.png?raw=true)
  - KiCad should then automatically redirect you to a browser where it has opened up PCBWay and uploaded the necessary files so that you can begin ordering. Next we need to select all the correct options so that it will be made correctly.
 
 ## Selecting the correct options in PCBWay
  - Most of these options will be selected automatically, but be sure to set the ones in the red boxes as they are either structurally required or drastically affect cost
- - ![Open project](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/instructions-04.png?raw=true)
- - ![Open project](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/instructions-05.png?raw=true)
+ - ![Open project](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/pictures/instructions-04.png?raw=true)
+ - ![Open project](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/pictures/instructions-05.png?raw=true)
    - `Thickness`: This has to be 1.2 otherwise it will be too thick and you risk over-bending the receiver pins in the N64 
    - `Min hole size`: This tells PCBWay how small we need the holes for some of our vias
    - `Edge connector`: By far the most important setting. This tells PCBWay that we have what is called an `edge connector` (similar to how a RAM stick looks). That way they know to setup all the particular manufacturing stuff that is required to make these
@@ -44,6 +44,6 @@ Thank you so much to everyone who has followed along, commented, gave me feedbac
    - `Surface finish`: This is the plating that will appear on the pads where you will solder things to. `HASL lead free` is plenty good enough for this and also helps with cost
    - `Remove product No`: PCBWay adds a tracking number to the silkscreen of your boards so that their manufacturing process is a little easier. You can select the `Yes` option here and pay a little extra to have them not add that. It's not a huge deal, but something to be aware of.
 
-![KiCad view of the electrical schematic](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/schematic.png?raw=true)
-![KiCad render of the front of the Expansion Pak](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/front.png?raw=true)
-![KiCad render of the back of the Expansion Pak](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/back.png?raw=true)
+![KiCad view of the electrical schematic](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/pictures/schematic.png?raw=true)
+![KiCad render of the front of the Expansion Pak](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/pictures/front.png?raw=true)
+![KiCad render of the back of the Expansion Pak](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/pictures/back.png?raw=true)
