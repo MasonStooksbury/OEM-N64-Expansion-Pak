@@ -34,7 +34,7 @@ Thank you so much to everyone who has followed along, commented, gave me feedbac
  - KiCad should then automatically redirect you to a browser where it has opened up PCBWay and uploaded the necessary files so that you can begin ordering. Next we need to select all the correct options so that it will be made correctly.
 
 ## Selecting the correct options in PCBWay
- - Most of these options will be selected automatically, but be sure to set these as they are either structurally required or drastically affect cost
+ - Most of these options will be selected automatically, but be sure to set the ones in the red boxes as they are either structurally required or drastically affect cost
  - ![Open project](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/instructions-04.png?raw=true)
  - ![Open project](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak/blob/main/instructions-05.png?raw=true)
    - `Thickness`: This has to be 1.2 otherwise it will be too thick and you risk over-bending the receiver pins in the N64 
